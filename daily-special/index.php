@@ -82,9 +82,9 @@
 
     <link href="https://fonts.googleapis.com/css?family=Lily+Script+One" rel="stylesheet">
 
-    <link type="text/css" rel="stylesheet" href="https://saltydog.com/headers/styleBoot.css">
+    <link type="text/css" rel="stylesheet" href="https://katophelix.github.io/KatBohicket/headers/styleBoot.css">
 
-    <link type="text/css" rel="stylesheet" href="https://saltydog.com/headers/mega-header.css">
+    <link type="text/css" rel="stylesheet" href="https://katophelix.github.io/KatBohicket/headers/mega-header.css">
 
 
 
